@@ -1,5 +1,9 @@
 # MavenStudy
-Maven学习
+    Maven学习<br/>
+![](http://www.baidu.com/img/bdlogo.gif)
+
+
+[阿俊](http://www.baidu.com/ "访问百度")
 
 大标题
 =========
